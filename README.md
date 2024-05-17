@@ -21,7 +21,7 @@ This project is not approved, sponsored or affiliated with WireGuard or with the
 
 # License
 
-THis project is a fork of the [WireGuard LwIP project&reg;]([https://www.wireguard.com/](https://github.com/smartalock/wireguard-lwip) and will hence retain the same license.
+THis project is a fork of the [WireGuard LwIP project](https://github.com/smartalock/wireguard-lwip) and will hence retain the same license.
 
 The code is copyrighted under BSD 3 clause Copyright (c) 2021 Daniel Hope (www.floorsense.nz)
 
