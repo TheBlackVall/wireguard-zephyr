@@ -1,4 +1,4 @@
-# WireGuard Implementation for lwIP
+# WireGuard Implementation for the Zephyr Project
 
 This project is a C implementation of the [WireGuard&reg;](https://www.wireguard.com/) protocol intended to be used within the [Zephyr Project&reg;](https://zephyrproject.org/) environment. A large majority of the codebase will be borrowed from the [WireGuard LwIP project&reg;]([https://www.wireguard.com/](https://github.com/smartalock/wireguard-lwip) due to the platform-agnostic nature and the focus on integration with generic network stacks, making it adaptable to various environments, including Zephyr, which supports lwIP.
 
